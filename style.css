@@ -1,0 +1,40 @@
+.body{
+    background-color: rgb(159, 255, 127);
+    text-align: center;
+    
+}
+#first{
+    
+    text-align: center;
+    background-color: rgb(132, 132, 198);
+    width: 25%;
+    border:transparent;
+    border-style: groove;
+    margin-left: 35%;
+    border-width: 1px;
+    border-color: rgb(242, 10, 10);
+    border-radius: 50%;
+    margin-top: 50px;
+}
+#profile{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.second{
+    background-color: rgb(132, 132, 198);
+    width: 25%;
+    border:transparent;
+    border-style: groove;
+    margin-left: 35%;
+    border-width: 1px;
+    border-color: rgb(242, 10, 10);
+    border-radius: 30%;    
+    margin-top: 50px;
+}
+.game1{
+    height: 200px;
+    width: 200px;
+    border-radius: 30%;
+}
+
